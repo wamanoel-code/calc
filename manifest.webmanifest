@@ -1,0 +1,9 @@
+{
+  "name": "MathFlow Visual Calculator",
+  "short_name": "MathFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#0b1220",
+  "icons": []
+}
